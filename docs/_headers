@@ -1,0 +1,5 @@
+/*
+  Cache-Control: public, max-age=3600
+  Referrer-Policy: no-referrer-when-downgrade
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY

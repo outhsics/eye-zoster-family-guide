@@ -1,0 +1,12 @@
+{
+  "name": "eye-zoster-family-guide",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "preview": "npx wrangler pages dev docs",
+    "deploy": "npx wrangler pages deploy docs --project-name eye-zoster-family-guide"
+  },
+  "devDependencies": {
+    "wrangler": "^4.98.0"
+  }
+}
